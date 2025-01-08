@@ -23,8 +23,8 @@ A Python project that demonstrates the use of **Regular Expressions (Regex)** an
 
 ## 📸 Screenshots
 
-![Screenshot 1](https://github.com/SathiyanarayananSK/NLPforEbooks-Python/blob/main/images/display1.png/800x400) <!-- Replace with your screenshot -->
-![Screenshot 2](https://github.com/SathiyanarayananSK/NLPforEbooks-Python/blob/main/images/display2.png/800x400) <!-- Replace with your screenshot -->
+![display1](images/display1.png)
+![display2](images/display2.png)
 
 ---
 
